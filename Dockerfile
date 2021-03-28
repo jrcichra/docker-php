@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:18.04
 
 ENV TERM=xterm \
     SHELL=bash \
